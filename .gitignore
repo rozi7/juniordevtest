@@ -1,0 +1,6 @@
+vendor/
+public/berita/
+public/pdf/
+public/doc/
+public/loker/
+composer.lock
